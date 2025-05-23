@@ -1,3 +1,3 @@
 public interface Operacion {
-    int multiplicar(int a, int b);
+    int operacion(int a, int b);
 }
